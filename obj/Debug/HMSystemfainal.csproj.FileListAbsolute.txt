@@ -1,0 +1,68 @@
+C:\Users\UTSAB UTSHO\source\repos\HMSystemfainal\HMSystemfainal\bin\Debug\HMSystemfainal.exe.config
+C:\Users\UTSAB UTSHO\source\repos\HMSystemfainal\HMSystemfainal\bin\Debug\HMSystemfainal.exe
+C:\Users\UTSAB UTSHO\source\repos\HMSystemfainal\HMSystemfainal\bin\Debug\HMSystemfainal.pdb
+C:\Users\UTSAB UTSHO\source\repos\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.login.resources
+C:\Users\UTSAB UTSHO\source\repos\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.Properties.Resources.resources
+C:\Users\UTSAB UTSHO\source\repos\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.csproj.GenerateResource.cache
+C:\Users\UTSAB UTSHO\source\repos\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.exe
+C:\Users\UTSAB UTSHO\source\repos\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.pdb
+C:\Users\UTSAB UTSHO\source\repos\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.main.resources
+C:\Users\UTSAB UTSHO\source\repos\HMSystemfainal\HMSystemfainal\bin\Debug\mydb.mdf
+C:\Users\UTSAB UTSHO\source\repos\HMSystemfainal\HMSystemfainal\bin\Debug\mydb_log.ldf
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\bin\Debug\mydb.mdb
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\bin\Debug\MANAGE IT.exe.config
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\bin\Debug\MANAGE IT.exe.manifest
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\bin\Debug\MANAGE IT.application
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\bin\Debug\MANAGE IT.exe
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\bin\Debug\MANAGE IT.pdb
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\bin\Debug\stdole.dll
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.addmember.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.addrm.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.border.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.empty.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.god.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.history.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.login.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.main.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.print.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.profile.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.Properties.Resources.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.resorce.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.tran.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.csproj.GenerateResource.cache
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Debug\MANAGE IT.exe.manifest
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Debug\MANAGE IT.application
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.csproj.CopyComplete
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Debug\MANAGE IT.exe
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Debug\MANAGE IT.pdb
+E:\desktop\HMSystemfainal\HMSystemfainal\bin\Debug\mydb.mdb
+E:\desktop\HMSystemfainal\HMSystemfainal\bin\Debug\MANAGE IT.exe.config
+E:\desktop\HMSystemfainal\HMSystemfainal\bin\Debug\MANAGE IT.exe.manifest
+E:\desktop\HMSystemfainal\HMSystemfainal\bin\Debug\MANAGE IT.application
+E:\desktop\HMSystemfainal\HMSystemfainal\bin\Debug\MANAGE IT.exe
+E:\desktop\HMSystemfainal\HMSystemfainal\bin\Debug\MANAGE IT.pdb
+E:\desktop\HMSystemfainal\HMSystemfainal\bin\Debug\ShockwaveFlashObjects.dll
+E:\desktop\HMSystemfainal\HMSystemfainal\bin\Debug\stdole.dll
+E:\desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.csprojAssemblyReference.cache
+E:\desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.addmember.resources
+E:\desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.addrm.resources
+E:\desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.border.resources
+E:\desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.empty.resources
+E:\desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.god.resources
+E:\desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.history.resources
+E:\desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.login.resources
+E:\desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.main.resources
+E:\desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.print.resources
+E:\desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.profile.resources
+E:\desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.Properties.Resources.resources
+E:\desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.resorce.resources
+E:\desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.tran.resources
+E:\desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.csproj.GenerateResource.cache
+E:\desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.csproj.CoreCompileInputs.cache
+E:\desktop\HMSystemfainal\HMSystemfainal\obj\Debug\MANAGE IT.exe.manifest
+E:\desktop\HMSystemfainal\HMSystemfainal\obj\Debug\MANAGE IT.application
+E:\desktop\HMSystemfainal\HMSystemfainal\obj\Debug\HMSystemfainal.csproj.CopyComplete
+E:\desktop\HMSystemfainal\HMSystemfainal\obj\Debug\MANAGE IT.exe
+E:\desktop\HMSystemfainal\HMSystemfainal\obj\Debug\MANAGE IT.pdb

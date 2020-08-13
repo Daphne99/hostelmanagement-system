@@ -1,0 +1,27 @@
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\bin\Release\mydb.mdb
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\bin\Release\AxShockwaveFlashObjects.dll
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\bin\Release\stdole.dll
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Release\HMSystemfainal.csprojAssemblyReference.cache
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Release\HMSystemfainal.addmember.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Release\HMSystemfainal.addrm.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Release\HMSystemfainal.border.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Release\HMSystemfainal.empty.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Release\HMSystemfainal.god.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Release\HMSystemfainal.history.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Release\HMSystemfainal.login.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Release\HMSystemfainal.main.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Release\HMSystemfainal.print.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Release\HMSystemfainal.Properties.Resources.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Release\HMSystemfainal.tran.resources
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Release\HMSystemfainal.csproj.GenerateResource.cache
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Release\HMSystemfainal.csproj.CopyComplete
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\bin\Release\MANAGE IT.exe.config
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\bin\Release\MANAGE IT.exe.manifest
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\bin\Release\MANAGE IT.application
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\bin\Release\MANAGE IT.exe
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\bin\Release\MANAGE IT.pdb
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Release\MANAGE IT.exe.manifest
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Release\MANAGE IT.application
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Release\MANAGE IT.exe
+C:\Users\UTSAB UTSHO\Desktop\HMSystemfainal\HMSystemfainal\obj\Release\MANAGE IT.pdb
