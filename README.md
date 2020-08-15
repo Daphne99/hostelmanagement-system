@@ -1,5 +1,6 @@
 <p align="center" ><a href="madvert.tech"><img src="https://i.ibb.co/4YKFk2f/favicon.png"></a></p>
 <h1 align="center"> Manage-IT</h1>
+<h2 align="center"> Made for MADVERTLABS</h2>
 <p align="center">
 Universal Hostel/Hall/Hotel Management system.<br>
 Fully Featured Windows Desktop Appication<br>
